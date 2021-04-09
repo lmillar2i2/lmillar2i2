@@ -29,9 +29,11 @@ And more...
 
 - :bulb: https://dammva.pythonanywhere.com/ (2021)
 
-- :bulb: https://www.puntopatrones.com/ (2018)
+- :bulb: https://puntopatrones.pythonanywhere.com/ (2020)
 
 - :bulb:https://www.puntopatronesfisicos.com/ (2020)
+
+- :bulb: https://www.puntopatrones.com/ (2018)
 
 - :bulb: https://prcconsultoria.cl (2018)
 
