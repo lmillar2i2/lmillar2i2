@@ -27,13 +27,13 @@ And more...
 
 ## Some Projects:
 
-https://dammva.pythonanywhere.com/ (2021)
+- :bulb: https://dammva.pythonanywhere.com/ (2021)
 
-https://www.puntopatrones.com/ (2018)
+- :bulb: https://www.puntopatrones.com/ (2018)
 
-https://www.puntopatronesfisicos.com/ (2020)
+- :bulb:https://www.puntopatronesfisicos.com/ (2020)
 
-https://prcconsultoria.cl (2018)
+- :bulb: https://prcconsultoria.cl (2018)
 
 
 
