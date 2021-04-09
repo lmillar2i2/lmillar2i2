@@ -8,12 +8,12 @@
 
 - 🔭 I’m currently working on Django Apps, Ecommerce. 
 - ⚡I like innovation  
-- Keep 🌱 Learning 
+- 🌱 Learning 
 
 I'm a professional junior freelancer software developer.
 I've worked in many projects with multiple language and goals. The two last years i've develop Django apps. I like the fullstack roadmap. I keep learning to improve my abilities.
 
-## Skills:
+## Some Skills:
 
 
 [![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
