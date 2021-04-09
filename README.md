@@ -11,7 +11,7 @@
 - Keep 🌱 Learning 
 
 I'm a professional junior freelancer software developer.
-I've worked in many projects with multiple language and goals. The two last years i've develop Django apps. I like the fullstack roadmap. I keep learning to improve my habilities.
+I've worked in many projects with multiple language and goals. The two last years i've develop Django apps. I like the fullstack roadmap. I keep learning to improve my abilities.
 
 ## Skills:
 
