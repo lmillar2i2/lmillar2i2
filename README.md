@@ -27,13 +27,13 @@ And more...
 
 ## Some Projects:
 
-- :bulb: https://dammva.pythonanywhere.com/ (2021)
+- :bulb: https://dammva.pythonanywhere.com/  Aplicación web progresiva para georreferenciación de puntos de reciclaje para Municipalidad de Villa Alemana(2021)
 
-- :bulb: https://puntopatrones.pythonanywhere.com/ (2020)
+- :bulb: https://puntopatrones.pythonanywhere.com/ Aplicación web progresiva de catálogo offline para PuntoPatrones (2020)
 
-- :bulb:https://www.puntopatronesfisicos.com/ (2020)
+- :bulb:https://www.puntopatronesfisicos.com/ Tienda online (2020)
 
-- :bulb: https://www.puntopatrones.com/ (2018)
+- :bulb: https://www.puntopatrones.com/ Tienda online (2018)
 
 - :bulb: https://prcconsultoria.cl (2018)
 
