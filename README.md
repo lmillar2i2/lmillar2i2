@@ -10,7 +10,7 @@
 - ⚡I like innovation  
 - 🌱 Learning 
 
-I'm a professional junior freelancer software engineer.
+I'm a freelancer software engineer.
 I've worked in many projects with multiple language and goals. The two last years i've develop Django apps. I like the fullstack roadmap. I keep learning to improve my abilities.
 
 ## Some Skills:
