@@ -27,9 +27,9 @@ And more...
 
 ## Some Projects:
 
-- :bulb: https://dammva.pythonanywhere.com/  Aplicación web progresiva para georreferenciación de puntos de reciclaje para Municipalidad de Villa Alemana(2021)
+- :bulb: https://dammva.pythonanywhere.com/  Aplicación web progresiva (Django, Leafleat, Postgis) para georreferenciación de puntos de reciclaje para Municipalidad de Villa Alemana(2021)
 
-- :bulb: https://puntopatrones.pythonanywhere.com/ Aplicación web progresiva de catálogo offline para PuntoPatrones (2020)
+- :bulb: https://puntopatrones.pythonanywhere.com/ Aplicación web progresiva (Django) de catálogo offline para PuntoPatrones (2020)
 
 - :bulb:https://www.puntopatronesfisicos.com/ Tienda online (2020)
 
