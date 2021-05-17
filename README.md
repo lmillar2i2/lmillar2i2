@@ -27,6 +27,8 @@ And more...
 
 ## Some Projects:
 
+- :bulb: https://data-analisis-pp.herokuapp.com/  Aplicación para análisis de datos utilizando Python con Pandas Profiling y Streamlit
+
 - :bulb: https://dammva.pythonanywhere.com/  Aplicación web progresiva (Django, Leafleat, Postgis) para georreferenciación de puntos de reciclaje para Municipalidad de Villa Alemana(2021)
 
 - :bulb: https://puntopatrones.pythonanywhere.com/ Aplicación web progresiva (Django) de catálogo offline para PuntoPatrones (2020)
