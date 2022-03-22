@@ -18,7 +18,8 @@ I've worked in many projects with multiple language and goals. The two last year
 
 [![Django](https://img.shields.io/badge/Django-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
 </br>
-
+[![Python](https://img.shields.io/badge/Python-3DDC84?style=for-the-badge&logo=django&logoColor=white&labelColor=101010)]()
+</br>
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
 [![Oracle](https://img.shields.io/badge/Oracle-cf3d1e?style=for-the-badge&logo=oracle&logoColor=white&labelColor=101010)]()
 
@@ -26,6 +27,8 @@ I've worked in many projects with multiple language and goals. The two last year
 And more...
 
 ## Some Projects:
+
+- :bulb: https://animalesf.pythonanywhere.com/accounts/login/?next=/  Aplicación de encuestas utilizando Django/Python (2022)
 
 - :bulb: https://data-analisis-pp.herokuapp.com/  Aplicación para análisis de datos utilizando Python con Pandas Profiling y Streamlit (2021)
 
